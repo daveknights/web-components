@@ -1,7 +1,7 @@
 class VertuBanner extends HTMLElement {
     #hrefs = {
         bristolstreet: 'https://www.bristolstreet.co.uk/sell-my-car/?utm_source=aacars&utm_medium=referral&utm_campaign=smc_display',
-        macklinmotors: 'https://www.macklinmotors.co.uk/sell-my-car/?utm_source=aacars&utm_medium=referral&utm_campaign=smc_display',
+        macklin: 'https://www.macklinmotors.co.uk/sell-my-car/?utm_source=aacars&utm_medium=referral&utm_campaign=smc_display',
     };
 
     constructor() {
